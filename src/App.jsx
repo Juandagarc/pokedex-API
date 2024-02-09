@@ -7,9 +7,9 @@ import Pokemons from './components/pokemons/pokemons'
 function App() {
 
   return (
-    <>
+    <div className='main-container'>
       < Pokemons />
-    </>
+    </div>
   )
 }
 
